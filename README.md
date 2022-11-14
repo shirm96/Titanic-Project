@@ -5,10 +5,11 @@ This project examines the famous Titanic passengers.
  In Order to answer some of the questions I've used satistic methods such as: correlation test, t-test, chi test and permutation test.
 
 
-# Technolegy:
+## Technolegy:
 All tests and visualisation were performed using R Studio.
+The pakages been used are:dplyr, ggplot2, ggpubr, corrplot, effectsize, lsr and nhstplot
 
-# The quastions:
+## The Quastions:
 1.Is there a significant difference in the average age of passengers among the categories?
 2. Is there a significant correlation between the number of family members of the passengers on the ship and the ticket price?
 3. Is there a dependency between the boarding place from which the passengers boarded and their class on the ship?
